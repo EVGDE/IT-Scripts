@@ -8,8 +8,6 @@ def get_domain_name(ip_address):
     except socket.herror:
         return "No domain name found"
 
-f = open('list.txt', 'w')
-
 IP = input("[+] Enter the host IP address:\t")
 print("[+] Starting Ping Sweeper " + IP)
 dot = IP.rfind(".")
