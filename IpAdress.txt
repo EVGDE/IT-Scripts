@@ -1,0 +1,254 @@
+192.168.246.1 is up No domain name found
+192.168.246.2 is down No domain name found
+192.168.246.3 is up testmap.newsystems.ru
+192.168.246.4 is down No domain name found
+192.168.246.5 is down zabbix.icsns.ru
+192.168.246.6 is down No domain name found
+192.168.246.7 is up No domain name found
+192.168.246.8 is up jiraconf.icsns.ru
+192.168.246.9 is up No domain name found
+192.168.246.10 is down aic-web.coor-rzd.local
+192.168.246.11 is down crm.coor-rzd.local
+192.168.246.12 is down No domain name found
+192.168.246.13 is down No domain name found
+192.168.246.14 is down No domain name found
+192.168.246.15 is down No domain name found
+192.168.246.16 is down No domain name found
+192.168.246.17 is down No domain name found
+192.168.246.18 is down No domain name found
+192.168.246.19 is down No domain name found
+192.168.246.20 is down No domain name found
+192.168.246.21 is down No domain name found
+192.168.246.22 is down No domain name found
+192.168.246.23 is down No domain name found
+192.168.246.24 is up No domain name found
+192.168.246.25 is down No domain name found
+192.168.246.26 is up No domain name found
+192.168.246.27 is down No domain name found
+192.168.246.28 is down No domain name found
+192.168.246.29 is down No domain name found
+192.168.246.30 is down No domain name found
+192.168.246.31 is down No domain name found
+192.168.246.32 is down No domain name found
+192.168.246.33 is down No domain name found
+192.168.246.34 is down No domain name found
+192.168.246.35 is down No domain name found
+192.168.246.36 is down No domain name found
+192.168.246.37 is up No domain name found
+192.168.246.38 is down No domain name found
+192.168.246.39 is down No domain name found
+192.168.246.40 is down No domain name found
+192.168.246.41 is down cucmim1.icsns.ru
+192.168.246.42 is down cuc1.icsns.ru
+192.168.246.43 is down No domain name found
+192.168.246.44 is down No domain name found
+192.168.246.45 is up addressbook.icsns.ru
+192.168.246.46 is down No domain name found
+192.168.246.47 is down No domain name found
+192.168.246.48 is down No domain name found
+192.168.246.49 is down No domain name found
+192.168.246.50 is down No domain name found
+192.168.246.51 is down No domain name found
+192.168.246.52 is down asumap.newsystems.ru
+192.168.246.53 is down No domain name found
+192.168.246.54 is down No domain name found
+192.168.246.55 is down No domain name found
+192.168.246.56 is down No domain name found
+192.168.246.57 is down vl-map.newsystems.ru
+192.168.246.58 is down No domain name found
+192.168.246.59 is down No domain name found
+192.168.246.60 is down otrs.icsns.ru
+192.168.246.61 is down No domain name found
+192.168.246.62 is down No domain name found
+192.168.246.63 is down No domain name found
+192.168.246.64 is down No domain name found
+192.168.246.65 is down No domain name found
+192.168.246.66 is down No domain name found
+192.168.246.67 is down No domain name found
+192.168.246.68 is down No domain name found
+192.168.246.69 is down No domain name found
+192.168.246.70 is up No domain name found
+192.168.246.71 is up win-fdjkn9ji3n6.muldyn.local
+192.168.246.72 is down crm15.muldyn.local
+192.168.246.73 is down win-v2ujife4tio.muldyn.local
+192.168.246.74 is down No domain name found
+192.168.246.75 is down No domain name found
+192.168.246.76 is down No domain name found
+192.168.246.77 is down mp.newsystems.ru
+192.168.246.78 is down No domain name found
+192.168.246.79 is down No domain name found
+192.168.246.80 is up No domain name found
+192.168.246.81 is down No domain name found
+192.168.246.82 is down No domain name found
+192.168.246.83 is down No domain name found
+192.168.246.84 is down No domain name found
+192.168.246.85 is down No domain name found
+192.168.246.86 is down No domain name found
+192.168.246.87 is down No domain name found
+192.168.246.88 is up No domain name found
+192.168.246.89 is down No domain name found
+192.168.246.90 is down No domain name found
+192.168.246.91 is down No domain name found
+192.168.246.92 is down No domain name found
+192.168.246.93 is down hs-site.newsystems.ru
+192.168.246.94 is down No domain name found
+192.168.246.95 is down No domain name found
+192.168.246.96 is down No domain name found
+192.168.246.97 is down No domain name found
+192.168.246.98 is down No domain name found
+192.168.246.99 is down No domain name found
+192.168.246.100 is up No domain name found
+192.168.246.101 is up maindc.main.local
+192.168.246.102 is down No domain name found
+192.168.246.103 is down No domain name found
+192.168.246.104 is down No domain name found
+192.168.246.105 is down No domain name found
+192.168.246.106 is down No domain name found
+192.168.246.107 is down No domain name found
+192.168.246.108 is down rso-uk-site.newsystems.ru
+192.168.246.109 is up No domain name found
+192.168.246.110 is up sp-dc-1.sp.local
+192.168.246.111 is down sp-db-1.sp.local
+192.168.246.112 is down sp-exch-1.sp.local
+192.168.246.113 is down sp-oos-1.sp.local
+192.168.246.114 is down sp-ap-4.sp.local
+192.168.246.115 is up sp-ap-4.sp.local
+192.168.246.116 is down sp-ap-4.sp.local
+192.168.246.117 is down sp-db-2.sp.local
+192.168.246.118 is down sp-ap-5.sp.local
+192.168.246.119 is down sd-ap-6.sp.local
+192.168.246.120 is down sp-db-3.sp.local
+192.168.246.121 is down sp-ap-7.sp.local
+192.168.246.122 is down sp-ap-8.sp.local
+192.168.246.123 is down No domain name found
+192.168.246.124 is down No domain name found
+192.168.246.125 is down No domain name found
+192.168.246.126 is down No domain name found
+192.168.246.127 is down No domain name found
+192.168.246.128 is down No domain name found
+192.168.246.129 is down No domain name found
+192.168.246.130 is down No domain name found
+192.168.246.131 is down ario.icsns.ru
+192.168.246.132 is down No domain name found
+192.168.246.133 is down No domain name found
+192.168.246.134 is up No domain name found
+192.168.246.135 is down No domain name found
+192.168.246.136 is down No domain name found
+192.168.246.137 is down No domain name found
+192.168.246.138 is down No domain name found
+192.168.246.139 is down No domain name found
+192.168.246.140 is up ncc.newsystems.ru
+192.168.246.141 is down No domain name found
+192.168.246.142 is up No domain name found
+192.168.246.143 is down No domain name found
+192.168.246.144 is up No domain name found
+192.168.246.145 is down No domain name found
+192.168.246.146 is down No domain name found
+192.168.246.147 is down No domain name found
+192.168.246.148 is down No domain name found
+192.168.246.149 is up No domain name found
+192.168.246.150 is down No domain name found
+192.168.246.151 is down No domain name found
+192.168.246.152 is down No domain name found
+192.168.246.153 is down No domain name found
+192.168.246.154 is down No domain name found
+192.168.246.155 is down No domain name found
+192.168.246.156 is down No domain name found
+192.168.246.157 is down No domain name found
+192.168.246.158 is down No domain name found
+192.168.246.159 is down No domain name found
+192.168.246.160 is down No domain name found
+192.168.246.161 is down No domain name found
+192.168.246.162 is down No domain name found
+192.168.246.163 is down No domain name found
+192.168.246.164 is down No domain name found
+192.168.246.165 is down No domain name found
+192.168.246.166 is down No domain name found
+192.168.246.167 is down No domain name found
+192.168.246.168 is down No domain name found
+192.168.246.169 is up No domain name found
+192.168.246.170 is up zabbixnis.icsns.ru
+192.168.246.171 is down No domain name found
+192.168.246.172 is down No domain name found
+192.168.246.173 is down No domain name found
+192.168.246.174 is down No domain name found
+192.168.246.175 is down No domain name found
+192.168.246.176 is down No domain name found
+192.168.246.177 is down No domain name found
+192.168.246.178 is down No domain name found
+192.168.246.179 is down No domain name found
+192.168.246.180 is down No domain name found
+192.168.246.181 is down No domain name found
+192.168.246.182 is down No domain name found
+192.168.246.183 is down No domain name found
+192.168.246.184 is down citrixmaster.icsns.ru
+192.168.246.185 is down citrixslave.icsns.ru
+192.168.246.186 is down No domain name found
+192.168.246.187 is down No domain name found
+192.168.246.188 is down No domain name found
+192.168.246.189 is down No domain name found
+192.168.246.190 is down No domain name found
+192.168.246.191 is down No domain name found
+192.168.246.192 is down No domain name found
+192.168.246.193 is down No domain name found
+192.168.246.194 is down No domain name found
+192.168.246.195 is down No domain name found
+192.168.246.196 is down No domain name found
+192.168.246.197 is down No domain name found
+192.168.246.198 is down No domain name found
+192.168.246.199 is down No domain name found
+192.168.246.200 is up No domain name found
+192.168.246.201 is down No domain name found
+192.168.246.202 is up No domain name found
+192.168.246.203 is down No domain name found
+192.168.246.204 is up No domain name found
+192.168.246.205 is down No domain name found
+192.168.246.206 is down No domain name found
+192.168.246.207 is down No domain name found
+192.168.246.208 is down No domain name found
+192.168.246.209 is down No domain name found
+192.168.246.210 is down No domain name found
+192.168.246.211 is down No domain name found
+192.168.246.212 is down No domain name found
+192.168.246.213 is down No domain name found
+192.168.246.214 is down No domain name found
+192.168.246.215 is down No domain name found
+192.168.246.216 is up No domain name found
+192.168.246.217 is down No domain name found
+192.168.246.218 is up No domain name found
+192.168.246.219 is down No domain name found
+192.168.246.220 is down No domain name found
+192.168.246.221 is down No domain name found
+192.168.246.222 is down wsus-db.icsns.ru
+192.168.246.223 is down No domain name found
+192.168.246.224 is down No domain name found
+192.168.246.225 is down No domain name found
+192.168.246.226 is down No domain name found
+192.168.246.227 is up No domain name found
+192.168.246.228 is down No domain name found
+192.168.246.229 is down No domain name found
+192.168.246.230 is down No domain name found
+192.168.246.231 is down No domain name found
+192.168.246.232 is down No domain name found
+192.168.246.233 is up No domain name found
+192.168.246.234 is down No domain name found
+192.168.246.235 is down No domain name found
+192.168.246.236 is down No domain name found
+192.168.246.237 is down No domain name found
+192.168.246.238 is down No domain name found
+192.168.246.239 is down No domain name found
+192.168.246.240 is down No domain name found
+192.168.246.241 is down No domain name found
+192.168.246.242 is down No domain name found
+192.168.246.243 is down No domain name found
+192.168.246.244 is down No domain name found
+192.168.246.245 is down No domain name found
+192.168.246.246 is down No domain name found
+192.168.246.247 is down No domain name found
+192.168.246.248 is down No domain name found
+192.168.246.249 is up No domain name found
+192.168.246.250 is down No domain name found
+192.168.246.251 is down No domain name found
+192.168.246.252 is down No domain name found
+192.168.246.253 is down No domain name found
+192.168.246.254 is down No domain name found
