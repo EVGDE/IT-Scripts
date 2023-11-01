@@ -1,13 +1,11 @@
 import os, socket
 
-
 def get_domain_name(ip_address):
     try:
         hostname = socket.gethostbyaddr(ip_address)[0]
         return hostname
     except socket.herror:
         return "No domain name found"
-
 
 f = open('list.txt', 'w')
 
