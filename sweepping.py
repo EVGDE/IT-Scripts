@@ -1,4 +1,4 @@
-#ForLinux
+#For Linux
 import os, socket
 
 def get_domain_name(ip_address):
