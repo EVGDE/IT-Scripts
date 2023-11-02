@@ -1,0 +1,20 @@
+2023-11-02
+192.168.240.1 is up _gateway
+192.168.240.2 is down No domain name found
+192.168.240.3 is up mskfile002.icsns.ru
+192.168.240.4 is down No domain name found
+192.168.240.5 is up No domain name found
+192.168.240.6 is down test123.icsns.ru
+192.168.240.7 is up intel01.icsns.ru
+192.168.240.8 is up No domain name found
+192.168.240.9 is up No domain name found
+192.168.240.10 is up dc1.icsns.ru
+192.168.240.11 is up No domain name found
+192.168.240.12 is up No domain name found
+192.168.240.13 is up No domain name found
+192.168.240.14 is down No domain name found
+192.168.240.15 is up exch2010.icsns.ru
+192.168.240.16 is up exch2010-2.icsns.ru
+192.168.240.17 is up No domain name found
+192.168.240.18 is down vcs.icsns.ru
+192.168.240.19 is down No domain name found

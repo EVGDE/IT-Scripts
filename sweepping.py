@@ -1,5 +1,9 @@
 #For Linux
 import os, socket, datetime
+from colorama import init, Fore
+from colorama import Back
+from colorama import Style
+
 
 def get_domain_name(ip_address):
     try:
@@ -17,7 +21,7 @@ IP = IP[0:dot + 1]
 f = open(IP + '0_' + str(data_log) + '.txt', 'w')
 f.write(str(data_log) + '\n')
 
-for i in range(1, 2):
+for i in range(1, 255):
     host = IP + str(i)
     response = os.system("ping -c 1 -w 1 " + host + " >/dev/null")
     domain_name = get_domain_name(host)
