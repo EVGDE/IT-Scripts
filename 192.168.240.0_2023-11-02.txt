@@ -4,7 +4,7 @@
 192.168.240.3 is up mskfile002.icsns.ru
 192.168.240.4 is down No domain name found
 192.168.240.5 is up No domain name found
-192.168.240.6 is down test123.icsns.ru
+192.168.240.6 is down test124.icsns.ru
 192.168.240.7 is up intel01.icsns.ru
 192.168.240.8 is up No domain name found
 192.168.240.9 is up No domain name found
@@ -18,3 +18,238 @@
 192.168.240.17 is up No domain name found
 192.168.240.18 is down vcs.icsns.ru
 192.168.240.19 is down No domain name found
+192.168.240.20 is up terminator.icsns.ru
+192.168.240.21 is up taxcom.icsns.ru
+192.168.240.22 is up monq2.icsns.ru
+192.168.240.23 is down iview.icsns.ru
+192.168.240.24 is up No domain name found
+192.168.240.25 is down relay.icsns.ru
+192.168.240.26 is down mavlyanova.icsns.ru
+192.168.240.27 is down mavlyanova2.icsns.ru
+192.168.240.28 is up ivanova.icsns.ru
+192.168.240.29 is down otrstest.icsns.ru
+192.168.240.30 is down No domain name found
+192.168.240.31 is down No domain name found
+192.168.240.32 is down No domain name found
+192.168.240.33 is down No domain name found
+192.168.240.34 is down No domain name found
+192.168.240.35 is down No domain name found
+192.168.240.36 is down No domain name found
+192.168.240.37 is down No domain name found
+192.168.240.38 is down No domain name found
+192.168.240.39 is down gorshteyn.icsns.ru
+192.168.240.40 is down No domain name found
+192.168.240.41 is down osipova.icsns.ru
+192.168.240.42 is up operator.icsns.ru
+192.168.240.43 is down No domain name found
+192.168.240.44 is down No domain name found
+192.168.240.45 is down No domain name found
+192.168.240.46 is down No domain name found
+192.168.240.47 is down No domain name found
+192.168.240.48 is down No domain name found
+192.168.240.49 is down compaqftp.icsns.ru
+192.168.240.50 is down No domain name found
+192.168.240.51 is down No domain name found
+192.168.240.52 is down opal.icsns.ru
+192.168.240.53 is down malyshev.icsns.ru
+192.168.240.54 is down nikitin-pc.icsns.ru
+192.168.240.55 is down No domain name found
+192.168.240.56 is down korchenkov.icsns.ru
+192.168.240.57 is down fehretdinov.icsns.ru
+192.168.240.58 is down No domain name found
+192.168.240.59 is down No domain name found
+192.168.240.60 is down No domain name found
+192.168.240.61 is down kirillovv.icsns.ru
+192.168.240.62 is up korablina.icsns.ru
+192.168.240.63 is down No domain name found
+192.168.240.64 is down No domain name found
+192.168.240.65 is down No domain name found
+192.168.240.66 is down kirillovv.icsns.ru
+192.168.240.67 is down No domain name found
+192.168.240.68 is down No domain name found
+192.168.240.69 is down No domain name found
+192.168.240.70 is down No domain name found
+192.168.240.71 is down ermolaev.icsns.ru
+192.168.240.72 is down No domain name found
+192.168.240.73 is down scopia.icsns.ru
+192.168.240.74 is up buh-mikolaychuk.icsns.ru
+192.168.240.75 is down No domain name found
+192.168.240.76 is down No domain name found
+192.168.240.77 is down dn-aesr.icsns.ru
+192.168.240.78 is down cp-aesr.icsns.ru
+192.168.240.79 is down No domain name found
+192.168.240.80 is down No domain name found
+192.168.240.81 is up mikolaychuk.icsns.ru
+192.168.240.82 is up mv.icsns.ru
+192.168.240.83 is up No domain name found
+192.168.240.84 is down shashkov.icsns.ru
+192.168.240.85 is up No domain name found
+192.168.240.86 is down No domain name found
+192.168.240.87 is down bezzubikova.icsns.ru
+192.168.240.88 is down No domain name found
+192.168.240.89 is down No domain name found
+192.168.240.90 is up No domain name found
+192.168.240.91 is down No domain name found
+192.168.240.92 is down No domain name found
+192.168.240.93 is down gorshteyn.icsns.ru
+192.168.240.94 is up tatarintseva.icsns.ru
+192.168.240.95 is down No domain name found
+192.168.240.96 is down No domain name found
+192.168.240.97 is down No domain name found
+192.168.240.98 is down No domain name found
+192.168.240.99 is down No domain name found
+192.168.240.100 is up No domain name found
+192.168.240.101 is down No domain name found
+192.168.240.102 is down saturn
+192.168.240.103 is down No domain name found
+192.168.240.104 is down No domain name found
+192.168.240.105 is down No domain name found
+192.168.240.106 is down No domain name found
+192.168.240.107 is down No domain name found
+192.168.240.108 is down No domain name found
+192.168.240.109 is down No domain name found
+192.168.240.110 is down No domain name found
+192.168.240.111 is down No domain name found
+192.168.240.112 is up iissmtpkvedr.icsns.ru
+192.168.240.113 is down No domain name found
+192.168.240.114 is down swift.icsns.ru
+192.168.240.115 is down No domain name found
+192.168.240.116 is up ipofficeapl.icsns.ru
+192.168.240.117 is down No domain name found
+192.168.240.118 is down extranet.newsystems.ru
+192.168.240.119 is down No domain name found
+192.168.240.120 is down No domain name found
+192.168.240.121 is down cms.icsns.ru
+192.168.240.122 is down No domain name found
+192.168.240.123 is down No domain name found
+192.168.240.124 is down No domain name found
+192.168.240.125 is down No domain name found
+192.168.240.126 is up kashtanova.icsns.ru
+192.168.240.127 is down levakov-pc.icsns.ru
+192.168.240.128 is up egorov.icsns.ru
+192.168.240.129 is down No domain name found
+192.168.240.130 is up ucm-pub.vks.conf.moesk.ru
+192.168.240.131 is up ucm-imp.vks.conf.moesk.ru
+192.168.240.132 is down No domain name found
+192.168.240.133 is down sekretar.icsns.ru
+192.168.240.134 is down No domain name found
+192.168.240.135 is down No domain name found
+192.168.240.136 is down No domain name found
+192.168.240.137 is down No domain name found
+192.168.240.138 is down malisheva.icsns.ru
+192.168.240.139 is down No domain name found
+192.168.240.140 is down No domain name found
+192.168.240.141 is up No domain name found
+192.168.240.142 is up No domain name found
+192.168.240.143 is down No domain name found
+192.168.240.144 is up No domain name found
+192.168.240.145 is down No domain name found
+192.168.240.146 is down No domain name found
+192.168.240.147 is up oksman.icsns.ru
+192.168.240.148 is down No domain name found
+192.168.240.149 is down No domain name found
+192.168.240.150 is down No domain name found
+192.168.240.151 is down No domain name found
+192.168.240.152 is down No domain name found
+192.168.240.153 is down No domain name found
+192.168.240.154 is up No domain name found
+192.168.240.155 is up No domain name found
+192.168.240.156 is up No domain name found
+192.168.240.157 is down No domain name found
+192.168.240.158 is down No domain name found
+192.168.240.159 is down toshiba-ns.icsns.ru
+192.168.240.160 is down toshv.icsns.ru
+192.168.240.161 is down No domain name found
+192.168.240.162 is down No domain name found
+192.168.240.163 is down No domain name found
+192.168.240.164 is down No domain name found
+192.168.240.165 is down No domain name found
+192.168.240.166 is down No domain name found
+192.168.240.167 is down No domain name found
+192.168.240.168 is down No domain name found
+192.168.240.169 is down No domain name found
+192.168.240.170 is down No domain name found
+192.168.240.171 is down No domain name found
+192.168.240.172 is down No domain name found
+192.168.240.173 is down No domain name found
+192.168.240.174 is down No domain name found
+192.168.240.175 is down No domain name found
+192.168.240.176 is down No domain name found
+192.168.240.177 is down No domain name found
+192.168.240.178 is down No domain name found
+192.168.240.179 is down No domain name found
+192.168.240.180 is down No domain name found
+192.168.240.181 is down No domain name found
+192.168.240.182 is down No domain name found
+192.168.240.183 is down No domain name found
+192.168.240.184 is down No domain name found
+192.168.240.185 is down No domain name found
+192.168.240.186 is down No domain name found
+192.168.240.187 is down No domain name found
+192.168.240.188 is down No domain name found
+192.168.240.189 is down No domain name found
+192.168.240.190 is down No domain name found
+192.168.240.191 is down No domain name found
+192.168.240.192 is down No domain name found
+192.168.240.193 is down No domain name found
+192.168.240.194 is down No domain name found
+192.168.240.195 is down No domain name found
+192.168.240.196 is down No domain name found
+192.168.240.197 is down No domain name found
+192.168.240.198 is down No domain name found
+192.168.240.199 is down No domain name found
+192.168.240.200 is down No domain name found
+192.168.240.201 is down No domain name found
+192.168.240.202 is down No domain name found
+192.168.240.203 is down No domain name found
+192.168.240.204 is down No domain name found
+192.168.240.205 is down sokolova.icsns.ru
+192.168.240.206 is down No domain name found
+192.168.240.207 is down No domain name found
+192.168.240.208 is down No domain name found
+192.168.240.209 is down No domain name found
+192.168.240.210 is down No domain name found
+192.168.240.211 is down No domain name found
+192.168.240.212 is down No domain name found
+192.168.240.213 is up dc2.icsns.ru
+192.168.240.214 is up No domain name found
+192.168.240.215 is down No domain name found
+192.168.240.216 is up No domain name found
+192.168.240.217 is down No domain name found
+192.168.240.218 is up bezzubikova.icsns.ru
+192.168.240.219 is up cucm1.icsns.ru
+192.168.240.220 is down cucm2.icsns.ru
+192.168.240.221 is down No domain name found
+192.168.240.222 is down wsus.icsns.ru
+192.168.240.223 is down No domain name found
+192.168.240.224 is down No domain name found
+192.168.240.225 is down No domain name found
+192.168.240.226 is down No domain name found
+192.168.240.227 is down No domain name found
+192.168.240.228 is down No domain name found
+192.168.240.229 is down No domain name found
+192.168.240.230 is down No domain name found
+192.168.240.231 is down No domain name found
+192.168.240.232 is down No domain name found
+192.168.240.233 is down No domain name found
+192.168.240.234 is down No domain name found
+192.168.240.235 is up dbserv.icsns.ru
+192.168.240.236 is down No domain name found
+192.168.240.237 is down No domain name found
+192.168.240.238 is down No domain name found
+192.168.240.239 is down No domain name found
+192.168.240.240 is down No domain name found
+192.168.240.241 is down No domain name found
+192.168.240.242 is down vcscontrol.icsns.ru
+192.168.240.243 is down No domain name found
+192.168.240.244 is up No domain name found
+192.168.240.245 is down No domain name found
+192.168.240.246 is down No domain name found
+192.168.240.247 is down No domain name found
+192.168.240.248 is down No domain name found
+192.168.240.249 is down No domain name found
+192.168.240.250 is down No domain name found
+192.168.240.251 is down No domain name found
+192.168.240.252 is down No domain name found
+192.168.240.253 is down No domain name found
+192.168.240.254 is down No domain name found
