@@ -1,9 +1,5 @@
 #For Linux
 import os, socket, datetime
-from colorama import init, Fore
-from colorama import Back
-from colorama import Style
-
 
 def get_domain_name(ip_address):
     try:
